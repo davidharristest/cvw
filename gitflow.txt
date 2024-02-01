@@ -18,7 +18,7 @@
 ## and limitations under the License.
 ################################################################################################
 
-Setup
+Setup 
 1. goto github and fork openhwgroup/cvw.git
 2. clone: git clone --recurse-submodules git@ross144/cvw.git
 3. git remote add upstream https://github.com/openhwgroup/cvw.git
